@@ -1,6 +1,7 @@
 # Resistor-DecadeBox
 Resistor Decade Box 0 - 999999 Ohm
-![Resistor Decade Box](https://github.com/vincent-himpe/Resistor-DecadeBox/blob/main/Documentation/front.png)
+
+![Resistor Decade Box](https://github.com/vincent-himpe/Resistor-DecadeBox/blob/main/Documentation/3dsmall.png)
 
 A Decade Resistor box using 3 Watt 1% resistors.
 The good quality boxes out there are very expensive and the ebay boxes invariably uses sloppy switches and 0603 resistors that go poof if you just look at them.
