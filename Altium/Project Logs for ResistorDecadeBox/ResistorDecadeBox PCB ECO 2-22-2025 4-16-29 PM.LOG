@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=NetR1_1 Pin=R4-1
+Removed Pin From Net: NetName=NetR1_2 Pin=R5-2
+Removed Pin From Net: NetName=NetR1_1 Pin=SW1-5
+Removed Pin From Net: NetName=NetR1_2 Pin=SW1-6
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J2-1
+Added Pin To Net: NetName=NetR1_2 Pin=R4-1
+Added Pin To Net: NetName=NetR1_1 Pin=R5-1
+Added Pin To Net: NetName=NetR1_2 Pin=SW1-5
+Added Pin To Net: NetName=NetR1_1 Pin=SW1-6
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=R11-1
+Added Pin To Net: NetName=NetR5_2 Pin=SW1-7
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=R17-1
+Added Pin To Net: NetName=NetR11_2 Pin=SW1-8
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=NetR17_2 Pin=R23-1
+Added Pin To Net: NetName=NetR17_2 Pin=SW1-9
+Added Net: Name=NetR17_2
+Added Pin To Net: NetName=NetR23_2 Pin=R23-2
+Added Pin To Net: NetName=NetR23_2 Pin=SW1-10
+Added Net: Name=NetR23_2
+Add Class Member: Failed to add class member : Component J1 BANANA BLACK, CHASSIS
+Add Class Member: Failed to add class member : Component J2 BANANA RED, CHASSIS

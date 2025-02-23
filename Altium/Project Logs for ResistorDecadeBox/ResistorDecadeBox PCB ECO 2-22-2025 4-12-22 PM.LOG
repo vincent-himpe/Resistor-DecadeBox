@@ -1,0 +1,220 @@
+Added Component: Designator=R1(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R2(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R3(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R4(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R5(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R6(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R7(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R8(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R9(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R10(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R11(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R12(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R13(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R14(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R15(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R16(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R17(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R18(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R19(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R20(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R21(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R22(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R23(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R24(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R25(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R26(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R27(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R28(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R29(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R30(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R31(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R32(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R33(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R34(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R35(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R36(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R37(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R38(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R39(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R40(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R41(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R42(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R43(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R44(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R45(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R46(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R47(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R48(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R49(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R50(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R51(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R52(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R53(RES-YAGEO-FMP300-VERT)
+Added Component: Designator=R54(RES-YAGEO-FMP300-VERT)
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR1_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR1_2 Pin=R5-2
+Added Pin To Net: NetName=NetR2_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR2_2 Pin=R7-2
+Added Pin To Net: NetName=NetR3_1 Pin=R8-1
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR3_2 Pin=R9-2
+Added Pin To Net: NetName=NetR4_2 Pin=R10-1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR5_1 Pin=R11-2
+Added Pin To Net: NetName=NetR6_2 Pin=R12-1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR7_1 Pin=R13-2
+Added Pin To Net: NetName=NetR8_2 Pin=R14-1
+Added Pin To Net: NetName=NetR14_2 Pin=R14-2
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR9_1 Pin=R15-2
+Added Pin To Net: NetName=NetR10_2 Pin=R16-1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR11_1 Pin=R17-2
+Added Pin To Net: NetName=NetR12_2 Pin=R18-1
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR13_1 Pin=R19-2
+Added Pin To Net: NetName=NetR14_2 Pin=R20-1
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR15_1 Pin=R21-2
+Added Pin To Net: NetName=NetR16_2 Pin=R22-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R22-2
+Added Pin To Net: NetName=NetR23_1 Pin=R23-1
+Added Pin To Net: NetName=NetR17_1 Pin=R23-2
+Added Pin To Net: NetName=NetR18_2 Pin=R24-1
+Added Pin To Net: NetName=NetR24_2 Pin=R24-2
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR19_1 Pin=R25-2
+Added Pin To Net: NetName=NetR20_2 Pin=R26-1
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR21_1 Pin=R27-2
+Added Pin To Net: NetName=NetR28_1 Pin=R28-1
+Added Pin To Net: NetName=NetR28_2 Pin=R28-2
+Added Pin To Net: NetName=NetR29_1 Pin=R29-1
+Added Pin To Net: NetName=NetR29_2 Pin=R29-2
+Added Pin To Net: NetName=NetR30_1 Pin=R30-1
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR28_1 Pin=R31-1
+Added Pin To Net: NetName=NetR31_2 Pin=R31-2
+Added Pin To Net: NetName=NetR32_1 Pin=R32-1
+Added Pin To Net: NetName=NetR28_2 Pin=R32-2
+Added Pin To Net: NetName=NetR29_1 Pin=R33-1
+Added Pin To Net: NetName=NetR33_2 Pin=R33-2
+Added Pin To Net: NetName=NetR34_1 Pin=R34-1
+Added Pin To Net: NetName=NetR29_2 Pin=R34-2
+Added Pin To Net: NetName=NetR30_1 Pin=R35-1
+Added Pin To Net: NetName=NetR35_2 Pin=R35-2
+Added Pin To Net: NetName=NetR36_1 Pin=R36-1
+Added Pin To Net: NetName=NetR30_2 Pin=R36-2
+Added Pin To Net: NetName=NetR31_2 Pin=R37-1
+Added Pin To Net: NetName=NetR37_2 Pin=R37-2
+Added Pin To Net: NetName=NetR38_1 Pin=R38-1
+Added Pin To Net: NetName=NetR32_1 Pin=R38-2
+Added Pin To Net: NetName=NetR33_2 Pin=R39-1
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR34_1 Pin=R40-2
+Added Pin To Net: NetName=NetR35_2 Pin=R41-1
+Added Pin To Net: NetName=NetR41_2 Pin=R41-2
+Added Pin To Net: NetName=NetR42_1 Pin=R42-1
+Added Pin To Net: NetName=NetR36_1 Pin=R42-2
+Added Pin To Net: NetName=NetR37_2 Pin=R43-1
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=NetR44_1 Pin=R44-1
+Added Pin To Net: NetName=NetR38_1 Pin=R44-2
+Added Pin To Net: NetName=NetR39_2 Pin=R45-1
+Added Pin To Net: NetName=NetR45_2 Pin=R45-2
+Added Pin To Net: NetName=NetR46_1 Pin=R46-1
+Added Pin To Net: NetName=NetR40_1 Pin=R46-2
+Added Pin To Net: NetName=NetR41_2 Pin=R47-1
+Added Pin To Net: NetName=NetR47_2 Pin=R47-2
+Added Pin To Net: NetName=NetR48_1 Pin=R48-1
+Added Pin To Net: NetName=NetR42_1 Pin=R48-2
+Added Pin To Net: NetName=NetR43_2 Pin=R49-1
+Added Pin To Net: NetName=NetR49_2 Pin=R49-2
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR44_1 Pin=R50-2
+Added Pin To Net: NetName=NetR45_2 Pin=R51-1
+Added Pin To Net: NetName=NetR51_2 Pin=R51-2
+Added Pin To Net: NetName=NetR52_1 Pin=R52-1
+Added Pin To Net: NetName=NetR46_1 Pin=R52-2
+Added Pin To Net: NetName=NetR47_2 Pin=R53-1
+Added Pin To Net: NetName=NetR53_2 Pin=R53-2
+Added Pin To Net: NetName=NetR54_1 Pin=R54-1
+Added Pin To Net: NetName=NetR48_1 Pin=R54-2
+Add Class Member: Failed to add class member : Component J1 BANANA BLACK, CHASSIS
+Add Class Member: Failed to add class member : Component J2 BANANA RED, CHASSIS
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R1 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R2 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R3 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R4 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R5 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R6 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R7 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R8 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R9 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R10 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R11 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R12 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R13 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R14 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R15 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R16 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R17 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R18 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R19 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R20 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R21 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R22 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R23 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R24 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R25 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R26 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R27 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R28 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R29 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R30 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R31 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R32 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R33 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R34 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R35 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R36 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R37 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R38 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R39 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R40 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R41 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R42 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R43 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R44 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R45 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R46 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R47 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R48 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R49 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R50 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R51 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R52 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R53 GENERIC-RES
+Added Member To Class: ClassName=ResistorDecadeBox Member=Component R54 GENERIC-RES
