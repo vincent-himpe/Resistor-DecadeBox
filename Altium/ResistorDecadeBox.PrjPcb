@@ -115,7 +115,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AVBFROTC
 
 [Document5]
 DocumentPath=ResistorDecadeBox Cover Drawing.PCBDwf
@@ -132,7 +132,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HERGIXBU
 
 [Document6]
 DocumentPath=ResistorDecadeBox Fabrication Drawing.PCBDwf
@@ -149,7 +149,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IRIWHSPG
 
 [Document7]
 DocumentPath=ResistorDecadeBox Front Assembly Drawing.PCBDwf
@@ -166,7 +166,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DBRJZUUZ
 
 [Document8]
 DocumentPath=ResistorDecadeBox Front Fabrication Drawing.PCBDwf
@@ -183,7 +183,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MKSUZPTN
 
 [Document9]
 DocumentPath=ResistorDecadeBox.OutJob
@@ -201,6 +201,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Parameter1]
+Name=SCHdrafter
+Value=Vincent Himpe
 
 [Configuration1]
 Name=Sources
