@@ -2,6 +2,48 @@
 FileName = ResistorBoxFront.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Solder
+      File : ResistorBoxFront.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ResistorBoxFront.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ResistorBoxFront.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
       File : ResistorBoxFront.GTL
 
@@ -27,35 +69,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : ResistorBoxFront.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : ResistorBoxFront.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-*************************************************************
-
-*************************************************************
 Generating : Bottom Solder
       File : ResistorBoxFront.GBS
 
@@ -69,19 +82,6 @@ Generating : Bottom Solder
 Used DCodes :
     D13
     D16
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : ResistorBoxFront.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
 *************************************************************
 
 *************************************************************
