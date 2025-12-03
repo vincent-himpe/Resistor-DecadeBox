@@ -2,6 +2,60 @@
 FileName = ResistorBoxFront.GBR
 AutoAperture = True
 *************************************************************
+Generating : Top Layer
+      File : ResistorBoxFront.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ResistorBoxFront.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ResistorBoxFront.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ResistorBoxFront.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D11
+    D16
+*************************************************************
+
+*************************************************************
 Generating : Top Solder
       File : ResistorBoxFront.GTS
 
@@ -13,7 +67,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D13
 *************************************************************
 
 *************************************************************
@@ -30,66 +83,11 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : ResistorBoxFront.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : ResistorBoxFront.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : ResistorBoxFront.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D11
-    D17
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : ResistorBoxFront.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D16
-*************************************************************
-
-*************************************************************
 Generating : Profile
       File : ResistorBoxFront.GM
 
 
 Used DCodes :
-    D18
+    D17
 *************************************************************
 

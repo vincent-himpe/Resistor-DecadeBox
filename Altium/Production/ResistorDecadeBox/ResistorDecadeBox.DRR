@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: ResistorDecadeBox.PcbDoc   10/8/2025  9:11:42 AM
+NCDrill File Report For: ResistorDecadeBox.PcbDoc   11/22/2025  12:19:48 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -7,7 +7,7 @@ ASCII RoundHoles File : ResistorDecadeBox.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      1.1mm (43mil)                                             Round             108       PTH        1004.18mm (39.53inch)
+T1      1.1mm (43mil)                                             Round             108       PTH        687.96mm (27.09inch)
 T2      1.4mm (55mil)                                             Round             66        PTH        523.16mm (20.60inch)
 T3      1.5mm (59mil)                                             Round             2         PTH        39.03mm (1.54inch)
 T4      3.2mm (126mil)                                            Round             6         PTH        502.00mm (19.76inch)

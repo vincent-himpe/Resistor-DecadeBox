@@ -2,39 +2,16 @@
 FileName = ResistorDecadeBox.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : ResistorDecadeBox.GTL
+Generating : Bottom Overlay
+      File : ResistorDecadeBox.GBO
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : ResistorDecadeBox.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
+    D22
+    D23
+    D24
 *************************************************************
 
 *************************************************************
@@ -57,29 +34,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : ResistorDecadeBox.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D21
-    D22
-    D23
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : ResistorDecadeBox.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
       File : ResistorDecadeBox.GTS
 
@@ -99,11 +53,59 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
+Generating : Top Overlay
+      File : ResistorDecadeBox.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : ResistorDecadeBox.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ResistorDecadeBox.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
 Generating : Profile
       File : ResistorDecadeBox.GM
 
 
 Used DCodes :
-    D24
+    D25
 *************************************************************
 
